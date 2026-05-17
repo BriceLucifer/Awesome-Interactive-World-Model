@@ -4,7 +4,13 @@
 
 # Awesome-Interactive World Model
 
-🌟**Classic**                ✅ **Open Source**              ❌️ **Not Open Source**
+<table align="center" width="100%">
+  <tr>
+    <td align="center">🌟 <b>Classic</b></td>
+    <td align="center">✅ <b>Open Source</b></td>
+    <td align="center">❌️ <b>Not Open Source</b></td>
+  </tr>
+</table>
 
 **General World Model**
 
