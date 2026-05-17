@@ -38,6 +38,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
   </tr>
 </table>
 
+**Badge Guide.** `🌟` marks representative or category-defining work. `✅` indicates that public resources such as code, data, model weights, demos, or an official project page are available. `❌️` indicates that no public implementation or resource has been found yet.
+
 ## General World Model
 
 ✅🌟(Minute-level Memory)[Lingbot-World:Advancing Open-source World Models](https://arxiv.org/abs/2601.20540)
