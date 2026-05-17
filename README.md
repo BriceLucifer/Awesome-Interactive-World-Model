@@ -1,4 +1,9 @@
-<h1 align="center"><img src="data/logo.png" alt="icon" style="width:52px;height:52px;vertical-align:middle;margin-right:10px;">Awesome Interactive World Model</h1>
+<div align="center">
+
+# 🌍 Awesome Interactive World Models
+
+**📜 A curated collection of Interactive World Model papers, systematically categorized by key research problems.** </br>
+</div>
 
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
@@ -8,7 +13,32 @@
   </tr>
 </table>
 
-**General World Model**
+## 🚩 News & Updates
+_Major updates and announcements are shown below. Scroll for full timeline._
+
+🔥 **[2026-5] Repository Launch** — Awesome Interactive World Models is now live! We're building a curated collection of Interactive World Model papers, systematically categorized by key research problems. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute.
+
+💡 **[Ongoing] Community Contributions Welcome** — Help us maintain the most up-to-date world models resource! Submit papers via PR or contact us at [email](mailto:yixuanye12@gmail.com).
+
+⭐ **[Ongoing] Support This Project** — If you find this useful, please [cite](#citation) our work and give us a star. Share with your research community!
+
+---
+## Overview
+  - 🌐 [General World Model](#general-world-model)
+  - 📊 [Benchmark](#benchmark)
+  - 💾 [Dataset](#dataset)
+  - 🎬 [Long Video Generation](#long-video-generation)
+  - 🧠 [Memory Consistency](#memory-consistency)
+  - 🎮 [Action Control](#action-control)
+  - 🖱️ [Interactive](#interactive)
+  - 🔧 [Post-Training](#post-training)
+  - ⚙️ [Physic](#physic)
+  - 📏 [Evaluation](#evalution)
+  - 📝 [Citation](#citation)
+
+---
+
+## General World Model
 
 ✅🌟(Minute-level Memory)[Lingbot-World:Advancing Open-source World Models](https://arxiv.org/abs/2601.20540)
 
@@ -38,7 +68,7 @@
 
 ✅[InSpatio-WorldFM: An Open-Source Real-Time Generative Frame Model](https://arxiv.org/abs/2603.11911)
 
-**Benchmark**
+## Benchmark
 
 ✅🌟(First Open Domain Memory & Action Benchmark)[MIND: Benchmarking Memory Consistency and Action Control in World Models](https://arxiv.org/abs/2602.08025)
 
@@ -51,7 +81,7 @@
 ✅[Toward Memory-Aided World Models: Benchmarking via Spatial Consistency](https://arxiv.org/abs/2505.22976)
 
 
-**Dataset**
+## Dataset
 
 ✅ [Sekai: A Video Dataset towards World Exploration](https://arxiv.org/abs/2506.15675)
 
@@ -63,7 +93,7 @@
 
 ✅ [GameGen-X: Open-World Video Game Dataset](https://arxiv.org/abs/2411.00769)
 
-**Long Video Generation**
+## Long Video Generation
 ✅ 🌟(First architecture supporting arbitrary step OPD) [AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation](https://arxiv.org/abs/2605.13724)
 
 ✅🌟(ODE perspective)[Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation](https://arxiv.org/abs/2602.02214)
@@ -111,9 +141,9 @@
 ✅[NOVA: Autoregressive Video Generation without Vector Quantization](https://arxiv.org/abs/2503.18723)
 
 
-**Memory Consistency**
+## Memory Consistency
 
-*   **Static Memory**
+*   ### Static Memory
     
 
 ❌️🌟(w/ Pose FOV overlap retrieval Memory)[Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval](https://arxiv.org/abs/2506.03141)
@@ -127,12 +157,16 @@
 ✅🌟(w/o Pose Memory)[Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory](https://arxiv.org/abs/2602.02393)
 
 ✅[AnchorWeave: World-Consistent Video Generation with Retrieved Local Spatial Memories](https://arxiv.org/abs/2602.14941)
+
 ✅[Learning World Models for Interactive Video Generation](https://arxiv.org/abs/2505.21996)
+
 ❌️[Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation on Minecraft](https://arxiv.org/abs/2510.03198)
+
 ✅[DeepVerse: 4D Autoregressive Video Generation as a World Model](https://arxiv.org/abs/2506.01103)
+
 ✅[WorldMem: Long-term Consistent World Simulation with Memory](https://arxiv.org/abs/2504.12369)
 
-*   **Dynamic Memory**
+*   ### Dynamic Memory
     
 
 ✅🌟(First out-of-view Dynamic Memory)[Flow Equivariant World Models: Structured Dynamics Outside the Field of View](https://arxiv.org/abs/2601.01075)
@@ -143,7 +177,7 @@
 
 ✅[MultiWorld: Scalable Multi-Agent Multi-View Video World Models](https://arxiv.org/abs/2604.18564)
 
-**Action Control**
+## Action Control
 
 ✅🌟(Transferable skills)[Olaf-World: Orienting Latent Actions for Video World Modeling](https://arxiv.org/abs/2602.10104)
 
@@ -152,7 +186,7 @@
 ❌️🌟(Action control from games)[GameFactory: Creating New Games with Generative Interactive Videos](https://arxiv.org/abs/2501.08325)
 
 
-**Interactive**
+## Interactive
 
 ✅🌟(Edit objects: add/remove/recolor)[Spatia: Video Generation with Updatable Spatial Memory](https://arxiv.org/abs/2512.15716)
 
@@ -160,7 +194,7 @@
 
 
 
-**Post-Training** 
+## Post-Training
 
 ✅[RLVR-World: Training World Models with Reinforcement Learning](https://arxiv.org/abs/2505.13934)
 
@@ -170,11 +204,24 @@
 
 
 
-**Physic**
+## Physic
 ✅[RealWonder: Real-Time Physical Action-Conditioned Video Generation](https://arxiv.org/abs/2603.05449)
 
-**Evalution**
+## Evalution
 ✅[Interactive World Simulator for Robot Policy Training and Evaluation](https://arxiv.org/abs/2603.08546)
 
 **Others**
 ✅[Vid2World: Crafting Video Diffusion Models to Interactive World Models](https://arxiv.org/abs/2505.14357)
+
+----
+## Citation
+If you find this repository useful, please consider citing this list:
+```bash
+@misc{ye2026awesomeiwm,
+    title = {Awesome-Interactive-World-Model},
+    author = {Yixuan Ye and {Awesome-Interactive-World-Model Contributors}},
+    journal = {GitHub repository},
+    url = {https://github.com/EasonTuT/Awesome-Interactive-World-Model},
+    year = {2026},
+}
+```
