@@ -4,7 +4,7 @@
 
 # Awesome-Interactive World Model
 
-🌟**: Classic**                ✅ **: Open Source**              ❌️ **: Not Open Source**
+🌟**:Classic**                ✅ **:Open Source**              ❌️ **:Not Open Source**
 
 **General World Model**
 
