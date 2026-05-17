@@ -68,6 +68,10 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 ✅[InSpatio-WorldFM: An Open-Source Real-Time Generative Frame Model](https://arxiv.org/abs/2603.11911)
 
+✅[DreamX-World: A General-Purpose Interactive World Model](https://github.com/AMAP-ML/DreamX-World)
+
+✅[Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video](https://arxiv.org/abs/2605.15182)
+
 ## Benchmark
 
 ✅🌟(First Open Domain Memory & Action Benchmark)[MIND: Benchmarking Memory Consistency and Action Control in World Models](https://arxiv.org/abs/2602.08025)
@@ -198,7 +202,7 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 ✅[RLVR-World: Training World Models with Reinforcement Learning](https://arxiv.org/abs/2505.13934)
 
-❌️[WorldCompass: Reinforcement Learning for Long-Horizon World Models](https://arxiv.org/abs/2602.09022)
+✅[WorldCompass: Reinforcement Learning for Long-Horizon World Models](https://arxiv.org/abs/2602.09022)
 
 ✅[World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](https://arxiv.org/abs/2604.24764)
 
