@@ -172,6 +172,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 ✅[WorldMem: Long-term Consistent World Simulation with Memory](https://arxiv.org/abs/2504.12369)
 
+❌️[MosaicMem: Hybrid Spatial Memory for Controllable Video World Models](https://arxiv.org/abs/2603.17117)
+
 *   ### Dynamic Memory
     
 
@@ -182,6 +184,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 ✅🌟(First multiplayer Minecraft World Model)[Solaris: Building a Multiplayer Video World Model in Minecraft](https://arxiv.org/abs/2602.22208)
 
 ✅[MultiWorld: Scalable Multi-Agent Multi-View Video World Models](https://arxiv.org/abs/2604.18564)
+
+✅[Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models](https://arxiv.org/pdf/2603.25716)
 
 ## Action Control
 
