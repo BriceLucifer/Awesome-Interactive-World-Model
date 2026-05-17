@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="data/logo.png" width="40" style="vertical-align:middle;"> Awesome Interactive World Models
+# <img src="data/logo.png" width="50" style="vertical-align:middle;"> Awesome Interactive World Models
 
 **📜 A curated collection of Interactive World Model papers, systematically categorized by key research problems.** </br>
 </div>
