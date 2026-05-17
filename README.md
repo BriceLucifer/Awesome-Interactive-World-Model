@@ -1,14 +1,12 @@
-<p align="center">
-  <img src="data/logo.png" width="200">
-</p>
+<h1 align="center">
+  <img src="data/logo.png" width="50" style="vertical-align:middle;margin-right:10px;"> Awesome Interactive World Model
+</h1>
 
-# Awesome-Interactive World Model
-
-<table align="center" width="100%">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
-    <td align="center">🌟 <b>Classic</b></td>
-    <td align="center">✅ <b>Open Source</b></td>
-    <td align="center">❌️ <b>Not Open Source</b></td>
+    <td align="center" style="border:none;">🌟 <b>Classic</b></td>
+    <td align="center" style="border:none;">✅ <b>Open Source</b></td>
+    <td align="center" style="border:none;">❌️ <b>Not Open Source</b></td>
   </tr>
 </table>
 
