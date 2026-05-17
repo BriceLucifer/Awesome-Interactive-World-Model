@@ -210,7 +210,7 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 ## Evalution
 ✅[Interactive World Simulator for Robot Policy Training and Evaluation](https://arxiv.org/abs/2603.08546)
 
-**Others**
+## Others
 ✅[Vid2World: Crafting Video Diffusion Models to Interactive World Models](https://arxiv.org/abs/2505.14357)
 
 ----
