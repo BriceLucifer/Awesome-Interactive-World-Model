@@ -114,6 +114,8 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 ✅🌟(Context compression)[Frame Context Packing and Drift Prevention in Next-Frame-Prediction Video Diffusion Models](https://arxiv.org/abs/2504.12626)
 
+❌️🌟(Learnable sparse attention routing)[Mixture of Contexts for Long Video Generation](https://arxiv.org/abs/2508.21058)
+
 ❌️🌟(Compression recovery training)[Pretraining Frame Preservation in Autoregressive Video Memory Compression](https://arxiv.org/abs/2512.23851)
 
 ✅[Context Forcing: Consistent Autoregressive Video Generation with Long Context](https://arxiv.org/abs/2602.06028)
