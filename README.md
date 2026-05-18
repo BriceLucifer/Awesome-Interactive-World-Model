@@ -74,6 +74,9 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 ✅[Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video](https://arxiv.org/abs/2605.15182)
 
+✅[MagicWorld: Towards Long-Horizon Stability for Interactive Video World Exploration](https://arxiv.org/abs/2511.18886)
+
+
 ## Benchmark
 
 ✅🌟(First Open Domain Memory & Action Benchmark)[MIND: Benchmarking Memory Consistency and Action Control in World Models](https://arxiv.org/abs/2602.08025)
@@ -147,6 +150,9 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 ✅[LongLive: Real-time Interactive Long Video Generation](https://arxiv.org/abs/2509.22622)
 
 ✅[NOVA: Autoregressive Video Generation without Vector Quantization](https://arxiv.org/abs/2503.18723)
+
+✅[Anchor Forcing: Anchor Memory and Tri-Region RoPE for Interactive Streaming Video Diffusion](https://arxiv.org/html/2603.13405v1)
+
 
 
 ## Memory Consistency
